@@ -5,7 +5,7 @@ CLI to digitize the Lynx broker 2fa card.
 ## Install
 
 ```sh
-cargo install
+cargo install --git https://github.com/Swaagie/2fa-card
 ```
 
 ## Configure
